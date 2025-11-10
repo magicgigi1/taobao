@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">淘宝自动抢购</string>
+    <string name="start_service">启动悬浮窗口</string>
+    <string name="stop_service">停止悬浮窗口</string>
+    <string name="open_taobao">打开淘宝</string>
+    <string name="start_auto_buy">开始抢购</string>
+    <string name="stop_auto_buy">停止抢购</string>
+    <string name="close">关闭</string>
+    <string name="status">状态: 未启动</string>
+    <string name="buy_control">抢购控制</string>
+</resources>
